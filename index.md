@@ -7,7 +7,6 @@ author_profile: true
 ---
 
 
-#Intro about me
 # About Me
 
 Hi, I am currently an undergraduate student at **King's College London**, currently pursuing a BSc in **Biomedical Sciences**. My current interests lie in Neuroscience, Data Science and AI, and how they interesect to drive innovation to global progress.
